@@ -46,7 +46,7 @@ Future<void> sendNotification() async {
 
   dio.options.headers['Content-Type'] = 'application/json';
   dio.options.headers["Authorization"] =
-      'key=AAAAKsBSpBc:APA91bHhKWACqylVPYZZJM5F6WqTW3CFjC8SLEFHPGo9Kwqw4ey-pn5qtbdfFeZeMpE0X8M-Z8Lv97npaTb73aTYsUw6YgDgY59gq3msakJUVWZTvv8n-swn0rGvaBw20xWKspqkop9u';
+      'key= put your key';
 
   try {
     final response = await dio.post(postUrl, data: data);
