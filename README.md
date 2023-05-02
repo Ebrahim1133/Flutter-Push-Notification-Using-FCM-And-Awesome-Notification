@@ -1,16 +1,19 @@
-# flutter_notification_project
+<h1>
+Flutter Push Notification Using FCM And Awesome Notification 
+</h1>
 
-A new Flutter project.
+</br> 
 
-## Getting Started
+<p>A mobile application that updates notifications using Firebase Cloud Messaging and displays notifications on the phone using Awesome Notification</p>
 
-This project is a starting point for a Flutter application.
+</br>
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Important Note</h2>
+</br> 
+<p>
+Don't forget to change the googleservice.json file and change the server key
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
